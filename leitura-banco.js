@@ -28,7 +28,7 @@ const objData = JSON.parse(jsonData)
 console.log(objData)
 console.log(typeof objData)
 
-    // acesso ao objeto, imprimindo os dados
+    // acesso ao objeto, imprimindo os dados pelo html no navegador, atraves do inspecionar elementos
 
     objData.map((id) => {
         console.log(id)
@@ -36,8 +36,8 @@ console.log(typeof objData)
 
     //DAQUI PARA BAIXO É O PROBLEMA, NÃO CONSIGO ALTERAR AS INFORMAÇÕES DO BANCO DE DADOS
 
-    //Utilizei o updateDoc que em um video, mas não consigo achar a referencia do banco de dados para ele mapear
-    // e fazer a alteração
+    //Utilizei o updateDoc que vi em um video, mas não consigo achar a referencia do banco de dados para ele mapear
+    // e fazer as alteração
 
   
 
