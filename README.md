@@ -16,3 +16,6 @@ Corrigir quantidades;
 Exportar um arquivo JSON com o banco corrigido;
 
 2. Validação do banco de dados corrigido 
+
+
+
